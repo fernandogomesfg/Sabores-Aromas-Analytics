@@ -131,6 +131,8 @@ Desenvolvido por Fernando Gomes
 - [Portfolio de Projectos](https://fernandogomesfg.github.io/)
 - [Artigo do Projecto no LinkedIn - (em desenvolvimento)](https://linkedin.com/seu-artigo)
 - [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernandogomesfg/)
+- [Dashboard Online no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNjljMDU4YjUtY2M5Yi00OWQ0LTliZWQtMWVkYTdmZTBlNjk0IiwidCI6Ijc1MTQ3NTM4LTg3ZmYtNDJiZS1iYjg1LTdlYzMzZTAyZmJiMyJ9)
+
 
 Para mais projectos e análises, visite meu portfolio ou entre em contacto através do LinkedIn.
 
