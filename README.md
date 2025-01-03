@@ -129,7 +129,7 @@ Desenvolvido por Fernando Gomes
 
 ### 🔗 Links Relevantes
 - [Portfolio de Projectos](https://fernandogomesfg.github.io/)
-- [Artigo do Projecto no LinkedIn - (em desenvolvimento)](https://linkedin.com/seu-artigo)
+- [Artigo do Projecto no LinkedIn](https://www.linkedin.com/pulse/dashboard-de-vendas-sabores-aromas-fernando-gomes-hp0mf/?trackingId=wSDpW7g7Q9qwS6OoX2aJdw%3D%3D)
 - [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fernandogomesfg/)
 - [Dashboard Online no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNjljMDU4YjUtY2M5Yi00OWQ0LTliZWQtMWVkYTdmZTBlNjk0IiwidCI6Ijc1MTQ3NTM4LTg3ZmYtNDJiZS1iYjg1LTdlYzMzZTAyZmJiMyJ9)
 
